@@ -48,15 +48,8 @@ Jual komputer
   </section>
 
   <footer>
-    <p>&copy; 2025 Fakhri Aristya. All rights reserved.</p>
+    <p>&copy; 2025 Fakhri Aristya dan Daffa Zachary R. All rights reserved.</p>
   </footer>
 
-  <script src="script.js"></script>
-</body>
-</html>
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-}
+ 
 
