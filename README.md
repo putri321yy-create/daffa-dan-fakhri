@@ -10,7 +10,7 @@ Jual komputer
 </head>
 <body>
   <header>
-    <h1>Fakhri Aristya</h1>
+    <h1>Fakhri Aristya Daffa Zachary R</h1>
     <nav>
       <a href="#">Beranda</a>
       <a href="#">Produk</a>
@@ -19,7 +19,7 @@ Jual komputer
   </header>
 
   <section class="hero">
-    <h2>Selamat datang di Toko Online Fakhri Aristya</h2>
+    <h2>Selamat datang di Toko Online Fakhri Aristya Daffa Zachary R</h2>
     <p>Temukan produk terbaik dengan harga terjangkau.</p>
   </section>
 
@@ -60,69 +60,3 @@ body {
   padding: 0;
 }
 
-header {
-  background-color: #0f4c75;
-  color: white;
-  padding: 20px;
-  text-align: center;
-}
-
-nav a {
-  margin: 0 15px;
-  color: white;
-  text-decoration: none;
-}
-
-.hero {
-  background-color: #bbe1fa;
-  text-align: center;
-  padding: 50px 20px;
-}
-
-.products {
-  padding: 40px 20px;
-  text-align: center;
-}
-
-.product-list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 30px;
-}
-
-.product {
-  border: 1px solid #ccc;
-  padding: 15px;
-  width: 200px;
-  background-color: white;
-  border-radius: 5px;
-}
-
-.product img {
-  max-width: 100%;
-}
-
-button {
-  background-color: #0f4c75;
-  color: white;
-  border: none;
-  padding: 10px;
-  margin-top: 10px;
-  cursor: pointer;
-}
-
-button:hover {
-  background-color: #3282b8;
-}
-
-footer {
-  background-color: #1b262c;
-  color: white;
-  text-align: center;
-  padding: 15px;
-  margin-top: 30px;
-}
-function beli(Komputer) {
-  alert("Anda memilih: "  Komputer + ". Fitur pembelian belum tersedia.");
-}
