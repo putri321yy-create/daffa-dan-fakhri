@@ -5,7 +5,7 @@ Jual komputer
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Fakhri Aristya | Toko Online</title>
+  <title>Fakhri Aristya dan Daffa Zachary R| Toko Online</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -54,3 +54,75 @@ Jual komputer
   <script src="script.js"></script>
 </body>
 </html>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #0f4c75;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 15px;
+  color: white;
+  text-decoration: none;
+}
+
+.hero {
+  background-color: #bbe1fa;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.products {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.product {
+  border: 1px solid #ccc;
+  padding: 15px;
+  width: 200px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.product img {
+  max-width: 100%;
+}
+
+button {
+  background-color: #0f4c75;
+  color: white;
+  border: none;
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3282b8;
+}
+
+footer {
+  background-color: #1b262c;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+}
+function beli(Komputer) {
+  alert("Anda memilih: "  Komputer + ". Fitur pembelian belum tersedia.");
+}
