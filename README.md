@@ -29,19 +29,19 @@ Jual komputer
       <div class="product">
         <img src="https://via.placeholder.com/200" alt="Produk 1" />
         <h3>Produk 1</h3>
-        <p>Rp100.000</p>
+        <p>Rp1.000.000</p>
         <button onclick="beli('Produk 1')">Beli</button>
       </div>
       <div class="product">
         <img src="https://via.placeholder.com/200" alt="Produk 2" />
         <h3>Produk 2</h3>
-        <p>Rp150.000</p>
+        <p>Rp3.500.000</p>
         <button onclick="beli('Produk 2')">Beli</button>
       </div>
       <div class="product">
         <img src="https://via.placeholder.com/200" alt="Produk 3" />
         <h3>Produk 3</h3>
-        <p>Rp200.000</p>
+        <p>Rp5.200.000</p>
         <button onclick="beli('Produk 3')">Beli</button>
       </div>
     </div>
