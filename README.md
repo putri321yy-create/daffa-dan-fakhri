@@ -5,7 +5,7 @@ Jual komputer
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Fakhri Aristya dan Daffa Zachary R| Toko Online</title>
+  <title>Fakhri Aristya dan Daffa Zachary R | Toko Online</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
